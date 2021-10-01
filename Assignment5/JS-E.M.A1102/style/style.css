@@ -1,0 +1,15 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.questionContainer {
+  width: 30vw;
+}
+
+button {
+  padding: 5px;
+  width: 200px;
+}
