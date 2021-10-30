@@ -1,0 +1,16 @@
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\09\Assignment13\Assignment13\bin\Debug\net5.0\Assignment13.exe
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\09\Assignment13\Assignment13\bin\Debug\net5.0\Assignment13.deps.json
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\09\Assignment13\Assignment13\bin\Debug\net5.0\Assignment13.runtimeconfig.json
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\09\Assignment13\Assignment13\bin\Debug\net5.0\Assignment13.runtimeconfig.dev.json
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\09\Assignment13\Assignment13\bin\Debug\net5.0\Assignment13.dll
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\09\Assignment13\Assignment13\bin\Debug\net5.0\ref\Assignment13.dll
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\09\Assignment13\Assignment13\bin\Debug\net5.0\Assignment13.pdb
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\09\Assignment13\Assignment13\obj\Debug\net5.0\Assignment13.csproj.AssemblyReference.cache
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\09\Assignment13\Assignment13\obj\Debug\net5.0\Assignment13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\09\Assignment13\Assignment13\obj\Debug\net5.0\Assignment13.AssemblyInfoInputs.cache
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\09\Assignment13\Assignment13\obj\Debug\net5.0\Assignment13.AssemblyInfo.cs
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\09\Assignment13\Assignment13\obj\Debug\net5.0\Assignment13.csproj.CoreCompileInputs.cache
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\09\Assignment13\Assignment13\obj\Debug\net5.0\Assignment13.dll
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\09\Assignment13\Assignment13\obj\Debug\net5.0\ref\Assignment13.dll
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\09\Assignment13\Assignment13\obj\Debug\net5.0\Assignment13.pdb
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\09\Assignment13\Assignment13\obj\Debug\net5.0\Assignment13.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\07\NPL_CongTC1_Assignment_07\NPL_CongTC1_Assignment_07\bin\Debug\net5.0\NPL_CongTC1_Assignment_07.exe
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\07\NPL_CongTC1_Assignment_07\NPL_CongTC1_Assignment_07\bin\Debug\net5.0\NPL_CongTC1_Assignment_07.deps.json
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\07\NPL_CongTC1_Assignment_07\NPL_CongTC1_Assignment_07\bin\Debug\net5.0\NPL_CongTC1_Assignment_07.runtimeconfig.json
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\07\NPL_CongTC1_Assignment_07\NPL_CongTC1_Assignment_07\bin\Debug\net5.0\NPL_CongTC1_Assignment_07.runtimeconfig.dev.json
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\07\NPL_CongTC1_Assignment_07\NPL_CongTC1_Assignment_07\bin\Debug\net5.0\NPL_CongTC1_Assignment_07.dll
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\07\NPL_CongTC1_Assignment_07\NPL_CongTC1_Assignment_07\bin\Debug\net5.0\ref\NPL_CongTC1_Assignment_07.dll
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\07\NPL_CongTC1_Assignment_07\NPL_CongTC1_Assignment_07\bin\Debug\net5.0\NPL_CongTC1_Assignment_07.pdb
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\07\NPL_CongTC1_Assignment_07\NPL_CongTC1_Assignment_07\obj\Debug\net5.0\NPL_CongTC1_Assignment_07.csproj.AssemblyReference.cache
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\07\NPL_CongTC1_Assignment_07\NPL_CongTC1_Assignment_07\obj\Debug\net5.0\NPL_CongTC1_Assignment_07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\07\NPL_CongTC1_Assignment_07\NPL_CongTC1_Assignment_07\obj\Debug\net5.0\NPL_CongTC1_Assignment_07.AssemblyInfoInputs.cache
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\07\NPL_CongTC1_Assignment_07\NPL_CongTC1_Assignment_07\obj\Debug\net5.0\NPL_CongTC1_Assignment_07.AssemblyInfo.cs
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\07\NPL_CongTC1_Assignment_07\NPL_CongTC1_Assignment_07\obj\Debug\net5.0\NPL_CongTC1_Assignment_07.csproj.CoreCompileInputs.cache
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\07\NPL_CongTC1_Assignment_07\NPL_CongTC1_Assignment_07\obj\Debug\net5.0\NPL_CongTC1_Assignment_07.dll
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\07\NPL_CongTC1_Assignment_07\NPL_CongTC1_Assignment_07\obj\Debug\net5.0\ref\NPL_CongTC1_Assignment_07.dll
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\07\NPL_CongTC1_Assignment_07\NPL_CongTC1_Assignment_07\obj\Debug\net5.0\NPL_CongTC1_Assignment_07.pdb
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\07\NPL_CongTC1_Assignment_07\NPL_CongTC1_Assignment_07\obj\Debug\net5.0\NPL_CongTC1_Assignment_07.genruntimeconfig.cache

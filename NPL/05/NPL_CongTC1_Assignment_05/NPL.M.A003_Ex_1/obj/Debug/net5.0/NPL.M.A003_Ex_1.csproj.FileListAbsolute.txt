@@ -1,0 +1,16 @@
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\05\NPL_CongTC1_Assignment_05\NPL.M.A003_Ex_1\bin\Debug\net5.0\NPL.M.A003_Ex_1.exe
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\05\NPL_CongTC1_Assignment_05\NPL.M.A003_Ex_1\bin\Debug\net5.0\NPL.M.A003_Ex_1.deps.json
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\05\NPL_CongTC1_Assignment_05\NPL.M.A003_Ex_1\bin\Debug\net5.0\NPL.M.A003_Ex_1.runtimeconfig.json
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\05\NPL_CongTC1_Assignment_05\NPL.M.A003_Ex_1\bin\Debug\net5.0\NPL.M.A003_Ex_1.runtimeconfig.dev.json
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\05\NPL_CongTC1_Assignment_05\NPL.M.A003_Ex_1\bin\Debug\net5.0\NPL.M.A003_Ex_1.dll
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\05\NPL_CongTC1_Assignment_05\NPL.M.A003_Ex_1\bin\Debug\net5.0\ref\NPL.M.A003_Ex_1.dll
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\05\NPL_CongTC1_Assignment_05\NPL.M.A003_Ex_1\bin\Debug\net5.0\NPL.M.A003_Ex_1.pdb
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\05\NPL_CongTC1_Assignment_05\NPL.M.A003_Ex_1\obj\Debug\net5.0\NPL.M.A003_Ex_1.csproj.AssemblyReference.cache
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\05\NPL_CongTC1_Assignment_05\NPL.M.A003_Ex_1\obj\Debug\net5.0\NPL.M.A003_Ex_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\05\NPL_CongTC1_Assignment_05\NPL.M.A003_Ex_1\obj\Debug\net5.0\NPL.M.A003_Ex_1.AssemblyInfoInputs.cache
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\05\NPL_CongTC1_Assignment_05\NPL.M.A003_Ex_1\obj\Debug\net5.0\NPL.M.A003_Ex_1.AssemblyInfo.cs
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\05\NPL_CongTC1_Assignment_05\NPL.M.A003_Ex_1\obj\Debug\net5.0\NPL.M.A003_Ex_1.csproj.CoreCompileInputs.cache
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\05\NPL_CongTC1_Assignment_05\NPL.M.A003_Ex_1\obj\Debug\net5.0\NPL.M.A003_Ex_1.dll
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\05\NPL_CongTC1_Assignment_05\NPL.M.A003_Ex_1\obj\Debug\net5.0\ref\NPL.M.A003_Ex_1.dll
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\05\NPL_CongTC1_Assignment_05\NPL.M.A003_Ex_1\obj\Debug\net5.0\NPL.M.A003_Ex_1.pdb
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\05\NPL_CongTC1_Assignment_05\NPL.M.A003_Ex_1\obj\Debug\net5.0\NPL.M.A003_Ex_1.genruntimeconfig.cache

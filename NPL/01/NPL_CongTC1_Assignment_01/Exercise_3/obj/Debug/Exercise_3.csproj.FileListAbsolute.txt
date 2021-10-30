@@ -1,0 +1,6 @@
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\01\NPL_CongTC1_Assignment_01\Exercise_3\bin\Debug\Exercise_3.exe.config
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\01\NPL_CongTC1_Assignment_01\Exercise_3\bin\Debug\Exercise_3.exe
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\01\NPL_CongTC1_Assignment_01\Exercise_3\bin\Debug\Exercise_3.pdb
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\01\NPL_CongTC1_Assignment_01\Exercise_3\obj\Debug\Exercise_3.csproj.CoreCompileInputs.cache
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\01\NPL_CongTC1_Assignment_01\Exercise_3\obj\Debug\Exercise_3.exe
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\01\NPL_CongTC1_Assignment_01\Exercise_3\obj\Debug\Exercise_3.pdb

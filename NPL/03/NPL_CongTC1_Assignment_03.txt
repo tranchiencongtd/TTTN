@@ -1,0 +1,48 @@
+https://codelearn.io/training/detail/35178
+int DivideArray(int[] a, int[] b)
+{
+    int count = 0;
+    for(int i = 0; i< a.Length; i++) {
+        for(int j = 0; j < b.Length; j++) {
+            if(a[i]%b[j]!=0) break; // break if have one case not divisible
+            if(j==b.Length-1) count++; // if divisible for all of array b count incre 1
+        }
+    }
+    return count;
+}
+
+https://codelearn.io/training/detail/3432
+string[] FileNaming(string[] names)
+{
+    String[] result = new String[names.Length];
+    for(int i = 0;i<names.Length;i++) {
+        string tempName = names[i];
+        int count = 0;
+		
+		// if contains name of element i in array count + 1 and assign tempName = name of element + count 
+        while(result.Contains(tempName)) {
+            count++;
+            tempName = $"{names[i]}({count})";
+        }
+        result[i] = tempName; // assign new name of element i
+    }
+
+    return result;
+}
+
+https://codelearn.io/training/detail/4538
+int MaxSubarray(int[] inputArray)
+{
+    int max = 0;
+    int lengthOfArray = inputArray.Length;
+    for(int i=0;i<lengthOfArray;i++) {
+        int sum = 0;
+		
+		// Find max of each subarray from i to end of array
+        for(int j=i;j<lengthOfArray;j++) {
+            sum += inputArray[j];
+            max = Math.Max(max,sum);
+        }
+    }
+    return (max<0) ? 0 : max;
+}

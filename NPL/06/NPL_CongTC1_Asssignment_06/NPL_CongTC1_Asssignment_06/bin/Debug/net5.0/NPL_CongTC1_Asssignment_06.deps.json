@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "NPL_CongTC1_Asssignment_06/1.0.0": {
+        "runtime": {
+          "NPL_CongTC1_Asssignment_06.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NPL_CongTC1_Asssignment_06/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

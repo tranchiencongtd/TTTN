@@ -1,0 +1,16 @@
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\04\NPL_CongTC1_Assignment_04\Excercise_3\bin\Debug\net5.0\Exercise_3.exe
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\04\NPL_CongTC1_Assignment_04\Excercise_3\bin\Debug\net5.0\Exercise_3.deps.json
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\04\NPL_CongTC1_Assignment_04\Excercise_3\bin\Debug\net5.0\Exercise_3.runtimeconfig.json
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\04\NPL_CongTC1_Assignment_04\Excercise_3\bin\Debug\net5.0\Exercise_3.runtimeconfig.dev.json
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\04\NPL_CongTC1_Assignment_04\Excercise_3\bin\Debug\net5.0\Exercise_3.dll
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\04\NPL_CongTC1_Assignment_04\Excercise_3\bin\Debug\net5.0\ref\Exercise_3.dll
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\04\NPL_CongTC1_Assignment_04\Excercise_3\bin\Debug\net5.0\Exercise_3.pdb
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\04\NPL_CongTC1_Assignment_04\Excercise_3\obj\Debug\net5.0\Exercise_3.csproj.AssemblyReference.cache
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\04\NPL_CongTC1_Assignment_04\Excercise_3\obj\Debug\net5.0\Exercise_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\04\NPL_CongTC1_Assignment_04\Excercise_3\obj\Debug\net5.0\Exercise_3.AssemblyInfoInputs.cache
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\04\NPL_CongTC1_Assignment_04\Excercise_3\obj\Debug\net5.0\Exercise_3.AssemblyInfo.cs
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\04\NPL_CongTC1_Assignment_04\Excercise_3\obj\Debug\net5.0\Exercise_3.csproj.CoreCompileInputs.cache
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\04\NPL_CongTC1_Assignment_04\Excercise_3\obj\Debug\net5.0\Exercise_3.dll
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\04\NPL_CongTC1_Assignment_04\Excercise_3\obj\Debug\net5.0\ref\Exercise_3.dll
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\04\NPL_CongTC1_Assignment_04\Excercise_3\obj\Debug\net5.0\Exercise_3.pdb
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\04\NPL_CongTC1_Assignment_04\Excercise_3\obj\Debug\net5.0\Exercise_3.genruntimeconfig.cache

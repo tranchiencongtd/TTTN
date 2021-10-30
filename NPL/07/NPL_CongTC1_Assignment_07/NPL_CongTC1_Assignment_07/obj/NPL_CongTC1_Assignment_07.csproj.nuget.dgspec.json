@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\VH\\Desktop\\THUC_TAP_FPT\\TTTN\\NPL\\07\\NPL_CongTC1_Assignment_07\\NPL_CongTC1_Assignment_07\\NPL_CongTC1_Assignment_07.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\VH\\Desktop\\THUC_TAP_FPT\\TTTN\\NPL\\07\\NPL_CongTC1_Assignment_07\\NPL_CongTC1_Assignment_07\\NPL_CongTC1_Assignment_07.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\VH\\Desktop\\THUC_TAP_FPT\\TTTN\\NPL\\07\\NPL_CongTC1_Assignment_07\\NPL_CongTC1_Assignment_07\\NPL_CongTC1_Assignment_07.csproj",
+        "projectName": "NPL_CongTC1_Assignment_07",
+        "projectPath": "C:\\Users\\VH\\Desktop\\THUC_TAP_FPT\\TTTN\\NPL\\07\\NPL_CongTC1_Assignment_07\\NPL_CongTC1_Assignment_07\\NPL_CongTC1_Assignment_07.csproj",
+        "packagesPath": "C:\\Users\\VH\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\VH\\Desktop\\THUC_TAP_FPT\\TTTN\\NPL\\07\\NPL_CongTC1_Assignment_07\\NPL_CongTC1_Assignment_07\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\VH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

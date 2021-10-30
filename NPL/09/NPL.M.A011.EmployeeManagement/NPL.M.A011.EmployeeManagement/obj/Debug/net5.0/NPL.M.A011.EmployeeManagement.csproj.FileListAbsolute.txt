@@ -1,0 +1,16 @@
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\09\NPL.M.A011.EmployeeManagement\NPL.M.A011.EmployeeManagement\bin\Debug\net5.0\NPL.M.A011.EmployeeManagement.exe
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\09\NPL.M.A011.EmployeeManagement\NPL.M.A011.EmployeeManagement\bin\Debug\net5.0\NPL.M.A011.EmployeeManagement.deps.json
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\09\NPL.M.A011.EmployeeManagement\NPL.M.A011.EmployeeManagement\bin\Debug\net5.0\NPL.M.A011.EmployeeManagement.runtimeconfig.json
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\09\NPL.M.A011.EmployeeManagement\NPL.M.A011.EmployeeManagement\bin\Debug\net5.0\NPL.M.A011.EmployeeManagement.runtimeconfig.dev.json
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\09\NPL.M.A011.EmployeeManagement\NPL.M.A011.EmployeeManagement\bin\Debug\net5.0\NPL.M.A011.EmployeeManagement.dll
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\09\NPL.M.A011.EmployeeManagement\NPL.M.A011.EmployeeManagement\bin\Debug\net5.0\ref\NPL.M.A011.EmployeeManagement.dll
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\09\NPL.M.A011.EmployeeManagement\NPL.M.A011.EmployeeManagement\bin\Debug\net5.0\NPL.M.A011.EmployeeManagement.pdb
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\09\NPL.M.A011.EmployeeManagement\NPL.M.A011.EmployeeManagement\obj\Debug\net5.0\NPL.M.A011.EmployeeManagement.csproj.AssemblyReference.cache
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\09\NPL.M.A011.EmployeeManagement\NPL.M.A011.EmployeeManagement\obj\Debug\net5.0\NPL.M.A011.EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\09\NPL.M.A011.EmployeeManagement\NPL.M.A011.EmployeeManagement\obj\Debug\net5.0\NPL.M.A011.EmployeeManagement.AssemblyInfoInputs.cache
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\09\NPL.M.A011.EmployeeManagement\NPL.M.A011.EmployeeManagement\obj\Debug\net5.0\NPL.M.A011.EmployeeManagement.AssemblyInfo.cs
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\09\NPL.M.A011.EmployeeManagement\NPL.M.A011.EmployeeManagement\obj\Debug\net5.0\NPL.M.A011.EmployeeManagement.csproj.CoreCompileInputs.cache
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\09\NPL.M.A011.EmployeeManagement\NPL.M.A011.EmployeeManagement\obj\Debug\net5.0\NPL.M.A011.EmployeeManagement.dll
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\09\NPL.M.A011.EmployeeManagement\NPL.M.A011.EmployeeManagement\obj\Debug\net5.0\ref\NPL.M.A011.EmployeeManagement.dll
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\09\NPL.M.A011.EmployeeManagement\NPL.M.A011.EmployeeManagement\obj\Debug\net5.0\NPL.M.A011.EmployeeManagement.pdb
+C:\Users\VH\Desktop\THUC_TAP_FPT\TTTN\NPL\09\NPL.M.A011.EmployeeManagement\NPL.M.A011.EmployeeManagement\obj\Debug\net5.0\NPL.M.A011.EmployeeManagement.genruntimeconfig.cache

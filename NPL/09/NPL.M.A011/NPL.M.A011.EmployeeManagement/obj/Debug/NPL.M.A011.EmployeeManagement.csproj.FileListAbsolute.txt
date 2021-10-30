@@ -1,0 +1,7 @@
+C:\Users\Hoang\source\repos\NPL.M.A011\NPL.M.A011.EmployeeManagement\bin\Debug\NPL.M.A011.EmployeeManagement.exe.config
+C:\Users\Hoang\source\repos\NPL.M.A011\NPL.M.A011.EmployeeManagement\bin\Debug\NPL.M.A011.EmployeeManagement.exe
+C:\Users\Hoang\source\repos\NPL.M.A011\NPL.M.A011.EmployeeManagement\bin\Debug\NPL.M.A011.EmployeeManagement.pdb
+C:\Users\Hoang\source\repos\NPL.M.A011\NPL.M.A011.EmployeeManagement\obj\Debug\NPL.M.A011.EmployeeManagement.csproj.AssemblyReference.cache
+C:\Users\Hoang\source\repos\NPL.M.A011\NPL.M.A011.EmployeeManagement\obj\Debug\NPL.M.A011.EmployeeManagement.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\source\repos\NPL.M.A011\NPL.M.A011.EmployeeManagement\obj\Debug\NPL.M.A011.EmployeeManagement.exe
+C:\Users\Hoang\source\repos\NPL.M.A011\NPL.M.A011.EmployeeManagement\obj\Debug\NPL.M.A011.EmployeeManagement.pdb
